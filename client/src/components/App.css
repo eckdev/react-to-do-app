@@ -190,14 +190,13 @@ cursor: pointer;
   vertical-align: middle;
   cursor: pointer;
   user-select: none;
-  background-color: transparent;
   border: 1px solid #e2e5ec;
-  background-color: transparent;
-    box-shadow: 0px 4px 16px 0px rgba(153, 153, 153, 0.15);
-    padding: 0.5rem 1rem;
-    font-size: 0.875rem;
-    line-height: 1.5;
-    border-radius: 0.4rem;
+  background-color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 0.4rem;
+  box-shadow: 0px 4px 16px 0px rgba(153, 153, 153, 0.15);
   margin-right: 5px;
 }
 

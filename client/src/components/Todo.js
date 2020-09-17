@@ -54,7 +54,7 @@ handleClickOutside = e => {
   onFormSubmit = e => {
     e.preventDefault();
     this.setState(prevState => ({ editing: !prevState.editing }));
-    this.props.updateTodo(this.props.id, this.state.description,true);
+    this.props.updateTodo(this.props.id, this.state.description,this.state.priority);
   };
 
   render() {
