@@ -1,7 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
-const keys = require('./config/keys');
 require('./models/Todo');
 
 mongoose.connect("mongodb+srv://cankayadarcin:14789632Me.@getirchallengedb.vtaqs.mongodb.net/GetirChallengeDb?retryWrites=true&w=majority", {
