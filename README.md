@@ -16,6 +16,9 @@ I have hosted it by heroku: [getircasestudy](https://getircasestudy.herokuapp.co
 | `DELETE` | /api/todos/:id      | Delete a todo with given id |
 
 #Run
+```bash
 
 npm i && npm i --prefix client
 npm run dev
+
+```
