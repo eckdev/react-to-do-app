@@ -1,5 +1,4 @@
-# getirstudycase
- Getir Study Case
+# React To-Do App
 
 > Eyupcan Kayadarcin todolist app built with React, Redux & MongoDB.
 
